@@ -1,1 +1,1 @@
-print ('hello Jai')
+print ('hello J')
